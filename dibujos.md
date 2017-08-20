@@ -4,4 +4,4 @@ layout: page
 permalink: /dibujos/
 ---
 
-Próximamente.
+Estoy trabajando para subir contenido. :)
